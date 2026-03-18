@@ -1,0 +1,66 @@
+npm warn ERESOLVE overriding peer dependency
+npm warn While resolving: game-scoreboard-saas@0.1.0
+npm warn Found: react@19.1.0
+npm warn node_modules/react
+npm warn   react@"19.2.4" from the root project
+npm warn   29 more (@expo/vector-icons, @react-native/virtualized-lists, ...)
+npm warn
+npm warn Could not resolve dependency:
+npm warn peer react@"^16.5.1 || ^17.0.0 || ^18.0.0" from lucide-react-native@0.379.0
+npm warn node_modules/lucide-react-native
+npm warn   lucide-react-native@"^0.379.0" from the root project
+npm warn ERESOLVE overriding peer dependency
+npm warn While resolving: game-scoreboard-saas@0.1.0
+npm warn Found: react@19.1.0
+npm warn node_modules/react
+npm warn   react@"19.2.4" from the root project
+npm warn   29 more (@expo/vector-icons, @react-native/virtualized-lists, ...)
+npm warn
+npm warn Could not resolve dependency:
+npm warn peer react@"^18.0.0" from react-native-web@0.19.13
+npm warn node_modules/react-native-web
+npm warn   react-native-web@"~0.19.13" from the root project
+npm warn   1 more (expo-router)
+npm warn ERESOLVE overriding peer dependency
+npm warn While resolving: game-scoreboard-saas@0.1.0
+npm warn Found: react@19.1.0
+npm warn node_modules/react
+npm warn   react@"19.2.4" from the root project
+npm warn   29 more (@expo/vector-icons, @react-native/virtualized-lists, ...)
+npm warn
+npm warn Could not resolve dependency:
+npm warn peer react@"^18.0.0" from react-native-web@0.19.13
+npm warn node_modules/react-native-web
+npm warn   react-native-web@"~0.19.13" from the root project
+npm warn   1 more (expo-router)
+npm warn ERESOLVE overriding peer dependency
+npm warn While resolving: game-scoreboard-saas@0.1.0
+npm warn Found: react-dom@19.1.0
+npm warn node_modules/react-dom
+npm warn   react-dom@"19.2.4" from the root project
+npm warn   2 more (@expo/metro-runtime, expo-router)
+npm warn
+npm warn Could not resolve dependency:
+npm warn peer react-dom@"^18.0.0" from react-native-web@0.19.13
+npm warn node_modules/react-native-web
+npm warn   react-native-web@"~0.19.13" from the root project
+npm warn   1 more (expo-router)
+npm warn ERESOLVE overriding peer dependency
+npm warn While resolving: game-scoreboard-saas@0.1.0
+npm warn Found: react-dom@19.1.0
+npm warn node_modules/react-dom
+npm warn   react-dom@"19.2.4" from the root project
+npm warn   2 more (@expo/metro-runtime, expo-router)
+npm warn
+npm warn Could not resolve dependency:
+npm warn peer react-dom@"^18.0.0" from react-native-web@0.19.13
+npm warn node_modules/react-native-web
+npm warn   react-native-web@"~0.19.13" from the root project
+npm warn   1 more (expo-router)
+
+added 53 packages, removed 131 packages, changed 60 packages, and audited 890 packages in 59s
+
+87 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
